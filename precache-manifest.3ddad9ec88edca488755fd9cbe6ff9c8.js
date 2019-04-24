@@ -144,11 +144,11 @@ self.__precacheManifest = [
     "url": "/static/js/LandingTestimonial.d889b4ff.chunk.js"
   },
   {
-    "revision": "bc5a86cd9eab95203f68",
-    "url": "/static/css/about.6709bce5.chunk.css"
+    "revision": "1837de0cfa17b1fc2723",
+    "url": "/static/css/about.a4d06602.chunk.css"
   },
   {
-    "revision": "bc5a86cd9eab95203f68",
+    "revision": "1837de0cfa17b1fc2723",
     "url": "/static/js/about.dd18785a.chunk.js"
   },
   {
@@ -260,12 +260,12 @@ self.__precacheManifest = [
     "url": "/static/js/life.0b9fa448.chunk.js"
   },
   {
-    "revision": "693a2ae92e972b5183a0",
+    "revision": "c815e6d543986fdc3376",
     "url": "/static/css/main.2d1e406c.chunk.css"
   },
   {
-    "revision": "693a2ae92e972b5183a0",
-    "url": "/static/js/main.8bfbf656.chunk.js"
+    "revision": "c815e6d543986fdc3376",
+    "url": "/static/js/main.f0a61972.chunk.js"
   },
   {
     "revision": "40d13a5193d7c8a006da",
@@ -364,8 +364,8 @@ self.__precacheManifest = [
     "url": "/static/js/rewardtos.4e8c0ec1.chunk.js"
   },
   {
-    "revision": "220e3bda248425b5cf26",
-    "url": "/static/js/runtime~main.52615c52.js"
+    "revision": "ce3c8ec8bbb7124a3d0d",
+    "url": "/static/js/runtime~main.21b794a4.js"
   },
   {
     "revision": "2afff1c4c76bac15015f",
@@ -1604,7 +1604,7 @@ self.__precacheManifest = [
     "url": "/static/media/MagicianNew.81cee74e.svg"
   },
   {
-    "revision": "4a820bc8b28ad8504f6aca0dd383ca46",
+    "revision": "d70755168ace98dc70b05ec5e0062bcd",
     "url": "/index.html"
   }
 ];
