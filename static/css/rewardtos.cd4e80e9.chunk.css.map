@@ -1,1 +1,0 @@
-{"version":3,"sources":["/Users/wilson/PolicyPal/PolicyPal-Ecommerce-Reactjs-Dev/src/components/RewardTos/RewardTos.scss"],"names":[],"mappings":"AAAA,mBAEI,0BAA4B,CAFhC,wBAMI,uBAAyB","file":"rewardtos.cd4e80e9.chunk.css","sourcesContent":[".reward-tos {\n  .title {\n    padding-bottom: 0 !important;\n  }\n\n  .title-desc {\n    padding: 5px 0 !important;\n  }\n}"]}
